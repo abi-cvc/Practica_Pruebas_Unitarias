@@ -1,7 +1,9 @@
 # Ejercicio JUnit — SmartWallet
 
 **Autor:** Carol Velásquez
+
 **Materia:** Verificación y Validación de Software — EPN
+
 **Stack:** Java 17 · Maven · JUnit 5 (Jupiter)
 
 Implementación de una clase `SmartWallet` con su suite de pruebas unitarias.
@@ -34,7 +36,7 @@ mvn test
 ## Estructura del proyecto
 
 ```
-ejercicio-junit-wallet/
+Practica_Pruebas_Unitarias/
 ├── pom.xml
 ├── README.md
 ├── .gitignore
